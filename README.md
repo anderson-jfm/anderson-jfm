@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Olá eu sou o Anderson
 
-<!--
-**anderson-jfm/anderson-jfm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Desenvolvedor | Estudante
 
-Here are some ideas to get you started:
+Estudante de desenvolvimento de sistemas,
+sempre buscando aprender e transformar conhecimento
+em projetos práticos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anderson-jfm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
+</div>
+
+---
+
+## 💻 Most Used Languages
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-jfm&layout=compact&langs_count=8&theme=dark"/>
+
+</div>
+
+---
+
+## 🛠️ Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,git,github,vscode,idea" />
+
+</div>
